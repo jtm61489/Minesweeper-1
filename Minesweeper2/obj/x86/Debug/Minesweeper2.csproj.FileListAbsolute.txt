@@ -1,0 +1,9 @@
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\bin\Debug\Minesweeper2.exe
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\bin\Debug\Minesweeper2.pdb
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\obj\x86\Debug\Minesweeper2.Properties.Resources.resources
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\obj\x86\Debug\Minesweeper2.csproj.GenerateResource.Cache
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\obj\x86\Debug\Minesweeper2.exe
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\obj\x86\Debug\Minesweeper2.pdb
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\obj\x86\Debug\Minesweeper2.csprojResolveAssemblyReference.cache
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\obj\x86\Debug\Minesweeper2.MainForm.resources
+E:\Dropbox\C# Projects\Minesweeper2\Minesweeper2\obj\x86\Debug\Minesweeper2.OptionsForm.resources
